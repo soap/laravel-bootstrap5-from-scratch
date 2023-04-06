@@ -1,5 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+## About this repository
+I try to set up Laravel application to use Bootstrap 5 without using Laravel Preset Starter Kit (Laravel/Ui). However to shorten tasks, I use Laravel/Fortify which containing no views. After configure Fortify, we need to build layouts and views using Bootstrap 5 Library.
+
 ## Main Packages
 - Laravel 10
 - Vite with laravel-vite-plugin
